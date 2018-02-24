@@ -5,7 +5,7 @@
 <br/>
 <font color="Gray">作者：潘全星   日期：2018-02-12</font>
 </center>
-**cocos2dx** 是一款流行的2d游戏引擎，融合了Cocos2d-HTML5和Cocos2d-x JavaScript Bindings（[JSB](http://www.cocos2d-x.org/docs/api-ref/cplusplus/v3x/d6/d1e/group__jsb.html)），封装成原生javascript扩平台引擎 **cocos2djs** 。基于谷歌v8引擎的js也同样具有跨平台特性。cocos2djs官网提供待完善的[**文档**](http://www.cocos2d-x.org/docs/api-ref/js/v3x/)。 
+**cocos2dx** 是一款流行的2d游戏引擎，融合了Cocos2d-HTML5和Cocos2d-x JavaScript Bindings（ [JSB](http://www.cocos2d-x.org/docs/api-ref/cplusplus/v3x/d6/d1e/group__jsb.html) ），封装成原生javascript扩平台引擎 **cocos2djs** 。基于谷歌v8引擎的js也同样具有跨平台特性。cocos2djs官网提供待完善的 [**文档**](http://www.cocos2d-x.org/docs/api-ref/js/v3x/) 。 
 
 ## clone“捕捉小星星”到你的Disk
 打开terminal(命令行终端)，此时你位于系统的～目录下，运行命令：
