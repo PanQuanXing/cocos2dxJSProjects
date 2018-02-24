@@ -1,0 +1,144 @@
+2018-02-24T02:25:23.570Z - normal: Load ~/.CocosCreator/settings.json
+2018-02-24T02:25:23.578Z - normal: checking language setting...
+2018-02-24T02:25:23.578Z - normal: Language: zh
+2018-02-24T02:25:25.015Z - success: protocol editor-framework registered
+2018-02-24T02:25:25.016Z - success: protocol app registered
+2018-02-24T02:25:25.016Z - success: protocol theme registered
+2018-02-24T02:25:25.016Z - success: protocol packages registered
+2018-02-24T02:25:25.016Z - success: protocol unpack registerred
+2018-02-24T02:25:25.017Z - success: protocol disable-commonjs registerred
+2018-02-24T02:25:25.378Z - normal: connected!
+2018-02-24T02:25:25.382Z - normal: Check project /Users/PanQuanXing/NewProject
+2018-02-24T02:25:25.420Z - normal: Initializing Cocos2d
+2018-02-24T02:25:25.807Z - normal: Initializing Asset Database
+2018-02-24T02:25:25.879Z - success: protocol uuid registerred
+2018-02-24T02:25:25.879Z - success: protocol db registerred
+2018-02-24T02:25:25.880Z - success: protocol thumbnail registerred
+2018-02-24T02:25:25.880Z - normal: Loading editor/builtin packages
+2018-02-24T02:25:25.926Z - success: anysdk loaded
+2018-02-24T02:25:26.162Z - success: assets loaded
+2018-02-24T02:25:26.169Z - success: builder loaded
+2018-02-24T02:25:26.173Z - success: cocos-analytics loaded
+2018-02-24T02:25:26.181Z - success: console loaded
+2018-02-24T02:25:26.189Z - success: hierarchy loaded
+2018-02-24T02:25:26.197Z - success: inspector loaded
+2018-02-24T02:25:26.200Z - success: keystore loaded
+2018-02-24T02:25:26.209Z - success: node-library loaded
+2018-02-24T02:25:26.212Z - success: package-asset loaded
+2018-02-24T02:25:26.215Z - success: preferences loaded
+2018-02-24T02:25:26.220Z - success: project-exporter loaded
+2018-02-24T02:25:26.252Z - success: project-importer loaded
+2018-02-24T02:25:26.258Z - success: project-settings loaded
+2018-02-24T02:25:26.266Z - success: ui-kit loaded
+2018-02-24T02:25:26.273Z - success: ui-grid loaded
+2018-02-24T02:25:26.282Z - success: scene loaded
+2018-02-24T02:25:26.285Z - success: sprite-editor loaded
+2018-02-24T02:25:26.293Z - success: store loaded
+2018-02-24T02:25:26.305Z - success: timeline loaded
+2018-02-24T02:25:26.305Z - normal: Loading builtin packages
+2018-02-24T02:25:26.317Z - success: asset-db-debugger loaded
+2018-02-24T02:25:26.320Z - success: color-picker loaded
+2018-02-24T02:25:26.328Z - success: package-manager loaded
+2018-02-24T02:25:26.341Z - success: sdkbox loaded
+2018-02-24T02:25:26.350Z - success: tester loaded
+2018-02-24T02:25:26.368Z - success: ui-kit-preview-extra loaded
+2018-02-24T02:25:26.376Z - success: ui-kit-preview loaded
+2018-02-24T02:25:26.381Z - success: ui-tree loaded
+2018-02-24T02:25:28.330Z - normal: Initializing project /Users/PanQuanXing/NewProject
+2018-02-24T02:25:28.333Z - normal: Loading packages
+2018-02-24T02:25:28.342Z - normal: Watching packages
+2018-02-24T02:25:28.360Z - normal: Run Application
+2018-02-24T02:25:29.233Z - success: preview server running at http://localhost:7456
+2018-02-24T02:25:37.725Z - normal: 1.8.1
+2018-02-24T02:30:31.948Z - success: VS Code extension installed to /Users/PanQuanXing/.vscode/extensions
+2018-02-24T02:40:27.196Z - failed: [db-task][sync-changes] Failed to import asset /Users/PanQuanXing/NewProject/assets/scripts/Star.js, message: Compile error: SyntaxError: /Users/PanQuanXing/NewProject/assets/scripts/Star.js: Unexpected token, expected , (15:18)
+  13 | 
+  14 |     properties: {
+> 15 |         getRange:0;
+     |                   ^
+  16 |     },
+  17 | 
+  18 |     // LIFE-CYCLE CALLBACKS:
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2018-02-24T03:16:17.700Z - warn: The 'type' attribute of 'Game.starPrefab' is undefined when loading script
+2018-02-24T03:26:05.589Z - warn: The 'type' attribute of 'Game.starPrefab' is undefined when loading script
+2018-02-24T04:56:54.166Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "star"
+Missing uuid: "0f381a95-bd2e-4688-9c60-93082327354f"
+
+2018-02-24T05:54:24.271Z - error: Parse Error: Unable to find file Texture, the path: /Users/PanQuanXing/NewProject/assets/ziti.png
+    at BitmapFontMeta.getRealFntTexturePath (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/share/assets/meta/bitmap-font.js:1:648)
+    at BitmapFontMeta.import (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/share/assets/meta/bitmap-font.js:1:877)
+    at Async.series.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:4979)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:718:13
+    at iterate (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:262:13)
+    at async.forEachOfSeries.async.eachOfSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:281:9)
+    at _parallel (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:717:9)
+    at Object.async.series (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:739:9)
+    at _importAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:4913)
+2018-02-24T05:54:41.068Z - warn: Property spriteFrame of Font 'ziti' is invalid. Using system font instead.
+2018-02-24T05:55:14.836Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:323797
+2018-02-24T06:04:09.236Z - warn: The 'type' attribute of 'Game.scoreLabel' is undefined when loading script
+2018-02-24T06:51:18.563Z - failed: [db-task][sync-changes] Failed to import asset /Users/PanQuanXing/NewProject/assets/scripts/Game.js, message: Compile error: SyntaxError: /Users/PanQuanXing/NewProject/assets/scripts/Game.js: Unexpected token, expected , (86:4)
+  84 |         cc.dirctor.loadScence('game');
+  85 |     }
+> 86 |     gainScore:function(){
+     |     ^
+  87 |         this.score+=1;
+  88 |         this.scoreLabel.string='SCORE:'+this.score.toString();
+  89 |     }
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2018-02-24T06:51:18.566Z - failed: [db-task][sync-changes] Failed to import asset /Users/PanQuanXing/NewProject/assets/scripts/Star.js, message: Compile error: SyntaxError: /Users/PanQuanXing/NewProject/assets/scripts/Star.js: Unsyntactic break (39:12)
+  37 |             // 调用收集行为
+  38 |             this.onPicked();
+> 39 |             break;
+     |             ^
+  40 |         }
+  41 |         var opacityRatio=1-this.game.timer/this.game.starDuration;
+  42 |         var minOpacity=50;
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp$1.parseBreakContinueStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1970:44)
+    at Parser.pp$1.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1830:19)
+    at Parser.pp$1.parseBlockBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2268:21)
+    at Parser.pp$1.parseBlock (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2247:8)
+    at Parser.pp$1.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1868:19)
+    at Parser.pp$1.parseIfStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2059:26)
+    at Parser.pp$1.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1846:19)
+    at Parser.pp$1.parseBlockBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2268:21)
+    at Parser.pp$1.parseBlock (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2247:8)
+2018-02-24T07:09:32.430Z - failed: [db-task][sync-changes] Failed to import asset /Users/PanQuanXing/NewProject/assets/scripts/Player.js, message: Compile error: SyntaxError: /Users/PanQuanXing/NewProject/assets/scripts/Player.js: Unexpected token, expected , (45:4)
+  43 |     }
+  44 |     //action入口
+> 45 |     onLoad:function(){
+     |     ^
+  46 |         //初始化跳跃动作
+  47 |         this.jumpAction=this.setJumpAction();
+  48 |         this.node.runAction(this.jumpAction);
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
